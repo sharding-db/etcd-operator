@@ -1,8 +1,9 @@
 # etcd operator
 
-### Project status: archived
+### Project status: restarting
 
-This project is no longer actively developed or maintained. The project exists here for historical reference. If you are interested in the future of the project and taking over stewardship, please contact etcd-dev@googlegroups.com.
+The project used to be maintained by coreos which archieved years ago https://github.com/coreos/etcd-operator. 
+We're using etcd heavily and going to continue to maintain the project.
 
 ### Overview
 
